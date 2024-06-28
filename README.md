@@ -5,4 +5,4 @@ The folder contains SLIDE-x-RES results (i.e., code profiling, code characterist
 
 1. **SLIDE-x-RES**: Result datasets generated during the Profiling/Simulation activities;
     - RECIPE_DECIMAL: Recipe benchmark results with datatypes Float and Double for the following functions: bs, bsort100, cnt, fdct, fibcall, insertionsort, lud, matrix_mult, select, shell_sort;
-    - RECIPE_INT: Recipe benchmark results with datatypes int8. int16, int32, int64 for the following functions: bs, bsort100, cnt, fdct, fft, fibcall, insertionsort, lud, matrix_mult, park_miller, prime, select, shell_sort, sqrt;
+    - RECIPE_INT: Recipe benchmark results with datatypes int8. int16, int32, int64 for the following functions: bs, bsort100, cnt, fac, fdct, fft, fibcall, insertionsort, lud, matrix_mult, park_miller, prime, select, shell_sort, sqrt;
